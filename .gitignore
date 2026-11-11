@@ -1,0 +1,5 @@
+# Local logs and real screenshots captured by the student during execution
+*.log
+*.tmp
+.DS_Store
+__pycache__/
